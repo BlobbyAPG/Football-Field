@@ -1,0 +1,65 @@
+body
+{
+    background-image: url(https://wallpapercave.com/wp/wp139791.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#ball
+{
+    left:48.5%;
+    top:60%; 
+}
+img
+{
+    position: absolute;
+}
+#player1
+{
+    left: 3%;
+    top: 45%;
+}
+#player2
+{
+    left: 18%;
+    top: 27%;
+}
+#player3
+{
+    left: 18%;
+    top: 65%;
+}
+#player4
+{
+    left: 40%;
+    top: 27%;
+}
+#player5
+{
+    left: 40%;
+    top: 65%;
+}
+#player6
+{
+    left: 50%;
+    top: 65%;
+}
+#player7
+{
+    left: 50%;
+    top: 27%;
+}
+#player8
+{
+    left: 72%;
+    top: 27%;
+}
+#player9
+{
+    left: 72%;
+    top: 65%;
+}
+#player10
+{
+    left: 87%;
+    top: 45%;
+}
